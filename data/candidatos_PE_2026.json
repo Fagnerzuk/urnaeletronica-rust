@@ -1,0 +1,7280 @@
+{
+  "estado": "PE",
+  "eleicao": 2026,
+  "deputado_federal": [
+    {
+      "nome": "ADELMO MENDES",
+      "numero": "3580",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROBSON FERREIRA",
+      "numero": "2023",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JAILSON ROCHA",
+      "numero": "2255",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOCORRO LACERDA",
+      "numero": "6510",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "FABÍOLA LEITE",
+      "numero": "2712",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃO FERNANDO",
+      "numero": "1425",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRESSA SABER",
+      "numero": "1455",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOYCE REIS",
+      "numero": "1533",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRISTIANE MONETA",
+      "numero": "1540",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "YVES RIBEIRO",
+      "numero": "1599",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IVONETE NANETE",
+      "numero": "1590",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR JEFFERSON LEAL",
+      "numero": "2077",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SUBOFICIAL SANTIAGO",
+      "numero": "2220",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADO RESENDE",
+      "numero": "7055",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNA KARINA",
+      "numero": "7005",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDILSON DO METRO",
+      "numero": "7017",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF. ELIABE SERAFIM",
+      "numero": "3026",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BÁRBARA BARBOSA",
+      "numero": "3077",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LEANDRO DO PAGODE",
+      "numero": "1222",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KLEBER VIANA",
+      "numero": "1200",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SAMARA NUNES",
+      "numero": "3012",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. EDUARDO MIRANDA",
+      "numero": "3088",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DÉBORAH LEITE",
+      "numero": "3055",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. WARTON",
+      "numero": "1244",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIEL COELHO",
+      "numero": "5555",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOM MONTEIRO",
+      "numero": "5588",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FERNANDO MONTEIRO",
+      "numero": "5590",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULIANA GOUVEIA",
+      "numero": "5508",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃO BOB DO TAXI",
+      "numero": "4055",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PEDRO CAMPOS",
+      "numero": "4040",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCAS RAMOS",
+      "numero": "4011",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BECINHA",
+      "numero": "4054",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DERLEY CHAGAS",
+      "numero": "4007",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANCHIETA PATRIOTA",
+      "numero": "4066",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. ADAIAS",
+      "numero": "1350",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "MANU MIRELLA",
+      "numero": "6565",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "DRA. EDNALVA FEITOZA",
+      "numero": "4300",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "DAVID PERNAMBUCANO",
+      "numero": "1369",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "ADRIANA ROCHA",
+      "numero": "1088",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LETÍCIA BORBA",
+      "numero": "1055",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HUMBERTO MENDES",
+      "numero": "1066",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLINHOS DA COHAB",
+      "numero": "1155",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "MISSIONÁRIA MICHELE COLLINS",
+      "numero": "1161",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JACIENE FREITAS",
+      "numero": "1115",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "EDINHO",
+      "numero": "4404",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DIVA DA SAÚDE",
+      "numero": "7713",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "PASTOR PEDRO",
+      "numero": "7722",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "MACIEL LIRA",
+      "numero": "7733",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "NANÁ ROCHA",
+      "numero": "7766",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "FÉLIX VIGILANTE",
+      "numero": "3517",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KEKO DO ARMAZÉM",
+      "numero": "4520",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "LUCAS CAVALCANTI",
+      "numero": "1444",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BISMARK",
+      "numero": "1422",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CAROL WANDERLEY",
+      "numero": "1472",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MATEUS PEREZ",
+      "numero": "1420",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARAH BITENCOURT",
+      "numero": "1404",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCIANO PACHECO",
+      "numero": "1511",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IZA ARRUDA",
+      "numero": "1515",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF. NÉLIO FONSÊCA",
+      "numero": "1501",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MIGUEL DUQUE",
+      "numero": "2000",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JÉSSICA MEDEIROS",
+      "numero": "5015",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "BRUNA AMBIENTAL",
+      "numero": "5024",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MICHELLE SANTOS",
+      "numero": "5000",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MÁRCIA AZEVEDO",
+      "numero": "5030",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "RICARDO DE GULU",
+      "numero": "4555",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "GABI BRITO",
+      "numero": "4533",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "DR MARQUINHOS",
+      "numero": "4510",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "PATRÍCIA LEIMIG OLIVEIRA",
+      "numero": "2223",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NELSON MONTEIRO",
+      "numero": "2233",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL FABIO MENEZES",
+      "numero": "2202",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IZABEL URQUIZA",
+      "numero": "2215",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IGOR A VOZ DO POVO",
+      "numero": "2244",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOUZA VIGILANTE",
+      "numero": "7080",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSORA ISLA SOARES",
+      "numero": "3043",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GEORGE BASTOS",
+      "numero": "3003",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELENILDO FURÃO",
+      "numero": "1210",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ÍNDIA DO NORDESTE",
+      "numero": "3078",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCOS MENEZES",
+      "numero": "3001",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOCORRO DUARTE",
+      "numero": "5578",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANILO SIMÕES",
+      "numero": "5545",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MAGUARI",
+      "numero": "5577",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MACIEL SARAIVA",
+      "numero": "4090",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DILSON OLIVEIRA",
+      "numero": "4056",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FELIPE CARRERAS",
+      "numero": "4004",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCELO MARCELINHO",
+      "numero": "4041",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VITINHO MAIA",
+      "numero": "4012",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF ADA HELENA",
+      "numero": "4017",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAVI LIRA",
+      "numero": "4044",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LIANA CIRNE",
+      "numero": "1310",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "KARI SANTOS",
+      "numero": "1331",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "RENILDO CALHEIROS",
+      "numero": "6513",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "JANE ASSUNÇÃO",
+      "numero": "4365",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "DR. PARCELINO MENEZES",
+      "numero": "1026",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADO LESSA",
+      "numero": "1090",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCELLY DA AQUARELA",
+      "numero": "1020",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CABO NAYLLIS",
+      "numero": "1190",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ROCO FRUTAS E VERDURAS",
+      "numero": "2533",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JORGE DA SAÚDE",
+      "numero": "7790",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "LU DE SAPÉ",
+      "numero": "2566",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DR. SÍLVIO",
+      "numero": "7700",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "ZOZOI DO IBURA",
+      "numero": "4033",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AIDE MARCIEL",
+      "numero": "3536",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SANDRO TAPIOCA",
+      "numero": "4526",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "ALTAIR FERREIRA",
+      "numero": "7001",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO CHERA",
+      "numero": "2522",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DANIEL TERTULIANO",
+      "numero": "1407",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PEDRO OLIVEIRA",
+      "numero": "1401",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WELLINGTON ROMEILTO",
+      "numero": "1499",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR MIRINHO",
+      "numero": "1517",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SELMA DAS MULHERES ARTICULADAS",
+      "numero": "1513",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FLÁVIO CAÇA RATO",
+      "numero": "1507",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PITEL FILHO",
+      "numero": "1588",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MATHEUS DO MLB",
+      "numero": "8080",
+      "partido": "UP",
+      "partido_nome": "UNIDADE POPULAR",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOANA DE NETO",
+      "numero": "2028",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "POLLY DA AMAR",
+      "numero": "2001",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSIAS DA SAÚDE",
+      "numero": "2099",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NANDA DA SAÚDE",
+      "numero": "2065",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JORGE ALEXANDRE",
+      "numero": "2026",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KÁTIA CUNHA",
+      "numero": "5005",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "RENATO FONSECA",
+      "numero": "5077",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ELIAS SANTOS",
+      "numero": "1888",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "PEDRO STILO",
+      "numero": "5055",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ELIANE A MOTORISTA",
+      "numero": "1850",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MARCELO RAMOS",
+      "numero": "1840",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "FABRÍCIO FERNANDES",
+      "numero": "1813",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ANDERSON FERREIRA",
+      "numero": "2222",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "POLIANA OLIVEIRA",
+      "numero": "2228",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IZA CARNEIRO",
+      "numero": "7020",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AILSON DO IP",
+      "numero": "7012",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "YNEZ SILVA",
+      "numero": "3019",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NELSINHO DA PIZZARIA",
+      "numero": "3044",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉ LOURENÇO",
+      "numero": "3031",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SAULO SEM FILTRO",
+      "numero": "3060",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DILSON BATISTA BLITZ",
+      "numero": "3033",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO MARQUES",
+      "numero": "4099",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO ALFREDO",
+      "numero": "1300",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "CARLOS VERAS",
+      "numero": "1314",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "GLEICE KELLY",
+      "numero": "1018",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GORETTI QUEIROZ",
+      "numero": "1001",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. JOÃO ROBERTO",
+      "numero": "1030",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ZÉ GURI JR",
+      "numero": "1089",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LULA DA FONTE",
+      "numero": "1111",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "LADELÇO GOMES",
+      "numero": "7770",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "THAIS VITAL",
+      "numero": "7767",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "VAVA RUFINO",
+      "numero": "7788",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JAIR FÉLIX",
+      "numero": "2500",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JUNNIOR TUTELAR",
+      "numero": "7740",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "VIVIANE FERNANDES",
+      "numero": "2707",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "XANDE PESSOA",
+      "numero": "1400",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EMANOEL XAVIER",
+      "numero": "1456",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TADEU CALHEIROS",
+      "numero": "1505",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CÁSSIA DO MOINHO",
+      "numero": "1566",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GLEYBSA DA SAÚDE",
+      "numero": "1535",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNO PINHO ALVES",
+      "numero": "1544",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MANUELLA MATTOS",
+      "numero": "2013",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RICARDO TEOBALDO",
+      "numero": "2055",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUIGA",
+      "numero": "2044",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GILSON MACHADO",
+      "numero": "2022",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIOZINHO RIBEIRO",
+      "numero": "5010",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ALEXANDRO DIAS E O COLETIVO",
+      "numero": "4513",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "SUZANA ABREU",
+      "numero": "4567",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "AGUINALDO XAVIER",
+      "numero": "2252",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MISSIONARIA ISLAYNE",
+      "numero": "2277",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AGOSTINHO FERRAZ",
+      "numero": "7088",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FABIO GOMES",
+      "numero": "7011",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULO ALVES",
+      "numero": "7000",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WALDEMAR OLIVEIRA",
+      "numero": "7070",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JAILTON",
+      "numero": "7040",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DRA. CAROL MESSIAS",
+      "numero": "3011",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WALTER MOREIRA",
+      "numero": "1233",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TACISIO DA ENFERMAGEM",
+      "numero": "1234",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALBÂNIA ALVES",
+      "numero": "3070",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RUI AMORIM",
+      "numero": "3099",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DUDU DA GRÁFICA",
+      "numero": "1255",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO ALMEIDA",
+      "numero": "5566",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JUDITE BOTAFOGO",
+      "numero": "5585",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARILIA VIANA",
+      "numero": "4065",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PRISCILA FERRAZ",
+      "numero": "4080",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BETINHO GOMES",
+      "numero": "1045",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KELLY ALENCAR",
+      "numero": "1033",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCINHA MOTA",
+      "numero": "4445",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "VÂNIA DE MIGUEL",
+      "numero": "1123",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CRISTIANO DANTAS",
+      "numero": "1177",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOÃO DO SKATE",
+      "numero": "7789",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DR. LUIZ PINTO",
+      "numero": "2556",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "NATHALIA PEDROSA",
+      "numero": "1477",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MICHELE LOPES",
+      "numero": "3511",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSÉ QUEIROZ",
+      "numero": "2727",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JACKSON BILA",
+      "numero": "2788",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARNEIRINHO DEFENSOR DOS MOTOR",
+      "numero": "2747",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ESTELA CARNEIRO MORAES",
+      "numero": "1415",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROSANA QUEIROZ",
+      "numero": "1424",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MIKAEL GRINGO",
+      "numero": "1470",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAYSE JULIANA",
+      "numero": "2012",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROBERTA COSTA",
+      "numero": "2010",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCELO GOUVEIA",
+      "numero": "2020",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCIANO JUNIOR",
+      "numero": "2088",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CONCEIÇÃO CEÇA",
+      "numero": "4582",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "SIMONE LINS",
+      "numero": "2207",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "THIAGO MEDINA",
+      "numero": "2288",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLOS BRITTO",
+      "numero": "2210",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "POLICIAL ALYNE ANNE",
+      "numero": "7090",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTÔNIO FERNANDO",
+      "numero": "7033",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DOUGLAS BRITO ATIVISTA",
+      "numero": "7077",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANA CLARA",
+      "numero": "1211",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VALDEMIR OLIVEIRA",
+      "numero": "1212",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOAMY ALVES",
+      "numero": "5515",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CLARISSA LIMA",
+      "numero": "5505",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUILHERME UCHOA JUNIOR",
+      "numero": "5500",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JADEVAL DE LIMA",
+      "numero": "5552",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRIS QUERALVARES",
+      "numero": "5544",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NANDA CHAGAS",
+      "numero": "5525",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IZAIAS REGIS",
+      "numero": "5567",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANGELA COUTINHO",
+      "numero": "4081",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GABRIEL PORTO",
+      "numero": "4010",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CLODOALDO MAGALHÃES",
+      "numero": "4333",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "CRISTIANE MOURA",
+      "numero": "4311",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "ROSA AMORIM",
+      "numero": "1303",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "FRANCIS HERBERT",
+      "numero": "6500",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "PATRICK CAMPOS",
+      "numero": "1311",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "CASSIANA DA SAÚDE",
+      "numero": "1011",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SILVIO COSTA FILHO",
+      "numero": "1010",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AUGUSTO COUTINHO",
+      "numero": "1000",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIEL ALVES",
+      "numero": "4455",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "FERNANDO FILHO",
+      "numero": "4401",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "BEL DE NEN DO COQUE",
+      "numero": "4413",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ESDRAS CABRAL",
+      "numero": "1120",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CASIMIRO ULISSES",
+      "numero": "7711",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JANE MÃE ATÍPICA",
+      "numero": "7720",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DRA. PENHA",
+      "numero": "2525",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "MAURILIO FEITOSA",
+      "numero": "2755",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MÁRIO CAVALCANTE",
+      "numero": "3535",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO MORAES",
+      "numero": "4591",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "SILVIO NASCIMENTO",
+      "numero": "2200",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAFA DA NOVA ALIANÇA",
+      "numero": "4444",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "IRMÃO JEAN CARLOS",
+      "numero": "1433",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROSTAND FILHO",
+      "numero": "1412",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR JADSON CAETANO",
+      "numero": "2045",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ENILDO MEIRA",
+      "numero": "1820",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "RONALDO SILVA",
+      "numero": "4530",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "DR. NIDO COELHO",
+      "numero": "4599",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "DR MAURO",
+      "numero": "4577",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "MARIVALDO SOUZA",
+      "numero": "4550",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "AGENOR DA ÁGUA",
+      "numero": "2300",
+      "partido": "CIDADANIA",
+      "partido_nome": "CIDADANIA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "DR FRANCISCO LUCENA",
+      "numero": "4544",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "CAPITÃO AURELÚCIO",
+      "numero": "2266",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRIS DA MUDANÇA",
+      "numero": "7009",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PERPETUA DANTAS",
+      "numero": "7007",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "OSVALDO AMORIM",
+      "numero": "1277",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LÚCIA DA SAÚDE",
+      "numero": "1288",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR GILBERTO",
+      "numero": "3020",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO PEDRO CAVALCANTI",
+      "numero": "3090",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FELIPE ALECRIM",
+      "numero": "3000",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GILBERTO LUNA",
+      "numero": "5542",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCOS GERVASIO",
+      "numero": "5535",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOCORRO PIMENTEL",
+      "numero": "5511",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JERLANDY MACEDO",
+      "numero": "5533",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CÉLIA SALES",
+      "numero": "5514",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CHARLLES DE TIRINGA",
+      "numero": "4088",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADRIANA SAMICO",
+      "numero": "1301",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "FERNANDO FERRO",
+      "numero": "1313",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "ANA ABRANTES",
+      "numero": "1070",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CLARISSA TÉRCIO",
+      "numero": "1122",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "MIGUEL COELHO",
+      "numero": "4400",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "PROFESSORA PENHA",
+      "numero": "7737",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "PASTOR AMARO",
+      "numero": "7756",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "BIRA",
+      "numero": "2929",
+      "partido": "PCO",
+      "partido_nome": "PARTIDO DA CAUSA OPERÁRIA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DODI",
+      "numero": "4514",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "MARCIO ADONSO",
+      "numero": "2770",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AMARO MORAES",
+      "numero": "3522",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DENGUE",
+      "numero": "4569",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "JANAÍNA GOMES",
+      "numero": "1215",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAQUEL EMMANUELLA DE MELO LIRA",
+      "numero": "2713",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULLY ROCHA",
+      "numero": "1475",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KLEBER NANDO",
+      "numero": "1441",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MIGUEL KAZAN",
+      "numero": "1414",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CHARLES RODRIGUES",
+      "numero": "1551",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCIANO DA OFICINA",
+      "numero": "1508",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAFAEL NUNES",
+      "numero": "1525",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANNAH FREIRE",
+      "numero": "1589",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SAMUEL SALAZAR",
+      "numero": "1555",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JORGE LIMA",
+      "numero": "1516",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MADU SILVA",
+      "numero": "8000",
+      "partido": "UP",
+      "partido_nome": "UNIDADE POPULAR",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIA HOSANA",
+      "numero": "2900",
+      "partido": "PCO",
+      "partido_nome": "PARTIDO DA CAUSA OPERÁRIA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RÔMULO GOMES",
+      "numero": "2002",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL PAULO MATOS",
+      "numero": "2019",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR MARCOS ORTOPEDISTA",
+      "numero": "2033",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NATALIA COSTA",
+      "numero": "2021",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JONES MANOEL",
+      "numero": "5050",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "CARLA FÉLIX",
+      "numero": "1800",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MARCELLO DANTAS",
+      "numero": "5081",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "EDVALDO JÙNIOR",
+      "numero": "1881",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "PÊ GUERRA",
+      "numero": "4511",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "RHAYSSA ALVES",
+      "numero": "2330",
+      "partido": "CIDADANIA",
+      "partido_nome": "CIDADANIA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "ZÉ CARLOS CORREDOR",
+      "numero": "4554",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "CRIS DO TRANSFORMA",
+      "numero": "4500",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "MARINALVA",
+      "numero": "4545",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "CORONEL MEIRA",
+      "numero": "2201",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EVERTON FELIPE",
+      "numero": "2297",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANA DA ÓTICA",
+      "numero": "2299",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALEINE MELO",
+      "numero": "2274",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANA BRANDAO",
+      "numero": "7025",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RICARDO SOUSA",
+      "numero": "7099",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GABRIEL IMOVEIS",
+      "numero": "7013",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GERA DO POSTO",
+      "numero": "7089",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MAURÍCIO RANDS",
+      "numero": "7010",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANUBIO VIEIRA",
+      "numero": "7045",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANDA MIRANDA",
+      "numero": "1267",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CLEIDE LOPES",
+      "numero": "1213",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUSTOSA DA FEDERAL",
+      "numero": "3022",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR ANTÔNIO ROSA",
+      "numero": "3080",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULIA LOSSIO",
+      "numero": "5501",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TEREZINHA DE IRMÃO NALDINHO",
+      "numero": "5556",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL DENIZE",
+      "numero": "5546",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DODUEL VARELA",
+      "numero": "5599",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDREZA ROMERO",
+      "numero": "4020",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RINALDO JÚNIOR",
+      "numero": "4013",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DALVANIZE NASCIMENTO",
+      "numero": "4340",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "RAFAEL PREQUÉ",
+      "numero": "4343",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "MILTON",
+      "numero": "1333",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "OSSESIO SILVA",
+      "numero": "1012",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO NADELSON",
+      "numero": "1050",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KARINA PAIVA",
+      "numero": "1022",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CHARLES DO PAULISTÃO",
+      "numero": "1099",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIEL UCHOA",
+      "numero": "1044",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DEFENSORA ELOISA HELENA",
+      "numero": "1013",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO BOSCO",
+      "numero": "1141",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DRA. MAGDALA",
+      "numero": "1151",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "RONY RUSSO",
+      "numero": "4410",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DRA. LUCIANA",
+      "numero": "4420",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ISRAEL GUERRA",
+      "numero": "1130",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "TITIO",
+      "numero": "7777",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "EDUARDO KIKO",
+      "numero": "7710",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DRA. SÍLVIA",
+      "numero": "7707",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "DR. ANTÔNIO STÊNIO",
+      "numero": "7755",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "CLAUDIO MENDONÇA",
+      "numero": "7799",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JACICLEIDE ROSENA",
+      "numero": "3505",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. NIVALDO",
+      "numero": "1818",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "LARISSA CALÓ",
+      "numero": "2323",
+      "partido": "CIDADANIA",
+      "partido_nome": "CIDADANIA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "GERMANA LACERDA",
+      "numero": "4033",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GEO CALDAS MINISTRO DAS ÁGUAS",
+      "numero": "2777",
+      "partido": "DC",
+      "partido_nome": "DEMOCRACIA CRISTÃ",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MIQUEIAS EMANOEL",
+      "numero": "1410",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AMANDA GRIZE",
+      "numero": "1405",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ERIC MUNIZ",
+      "numero": "1411",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MILTON MICUÍBA",
+      "numero": "1577",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOAQUIM LAPA",
+      "numero": "1510",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BERGUE JÚNIOR",
+      "numero": "1500",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL JACKSON",
+      "numero": "2030",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FANY BERNAL",
+      "numero": "2050",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULIO DE MAINHA",
+      "numero": "2080",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL FENTES MAN",
+      "numero": "2017",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GABI DA CAUSA ANIMAL",
+      "numero": "2008",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR JERÔNIMO GALVÃO",
+      "numero": "5013",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "DR. NELSON E O COLETIVO",
+      "numero": "5063",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "SANCHILIS OLIVEIRA",
+      "numero": "1811",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "FERNANDO DO SALVE",
+      "numero": "5001",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "JULIANA COELHO",
+      "numero": "1808",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ROSALVO",
+      "numero": "5087",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "PATRICIA VIÚVA",
+      "numero": "4566",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "MC LEOZINHO",
+      "numero": "4501",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "NELSON DINIZ",
+      "numero": "4512",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "PASTOR EURICO",
+      "numero": "4522",
+      "partido": "PSDB",
+      "partido_nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "BRANCA DURVANICE",
+      "numero": "2334",
+      "partido": "CIDADANIA",
+      "partido_nome": "CIDADANIA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSDB CIDADANIA"
+    },
+    {
+      "nome": "JOABE DO MERCADINHO",
+      "numero": "2260",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO PRUDENCIO",
+      "numero": "2256",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDMAR TREZOITÃO",
+      "numero": "2238",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GEORGE BOMBEIRO",
+      "numero": "2293",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SUZI DA FEIRINHA",
+      "numero": "2251",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MAGALLI NOVAES",
+      "numero": "7030",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ODACY AMORIM",
+      "numero": "7044",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HERIKA ARAUJO",
+      "numero": "7018",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "THALLYNE NUTRICIONISTA",
+      "numero": "7015",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HORTÊNCIA REGIS",
+      "numero": "1299",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAVI VIGILANTE",
+      "numero": "3038",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JUIZ LUIZ ROCHA",
+      "numero": "3010",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO MOURA",
+      "numero": "3030",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RENAN BIHUM",
+      "numero": "3037",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELIANE SOARES",
+      "numero": "4000",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JÚNIOR DI BRIA",
+      "numero": "4001",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FLAVIA HELLEN",
+      "numero": "4077",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VOLEIDE",
+      "numero": "4030",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. OZEIAS RODRIGUES",
+      "numero": "4303",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "ALINE MARIANO",
+      "numero": "1040",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "QUINHO FENELON",
+      "numero": "1080",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNO SALES",
+      "numero": "1077",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULIANA DE CHAPARRAL",
+      "numero": "4444",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DANIEL PALUCA",
+      "numero": "4411",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "TOINHO DA UNIÃO",
+      "numero": "1156",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ARMANDO FILHO",
+      "numero": "1112",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "EDUARDO HONÓRIO",
+      "numero": "1144",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "EDILSON TAVARES",
+      "numero": "1100",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "FERNANDO RODOLFO",
+      "numero": "2555",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    }
+  ],
+  "deputado_estadual": [
+    {
+      "nome": "FRANKLIN  FISCAL DO POVO",
+      "numero": "11113",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "IRMÃ CLAUDIA",
+      "numero": "35222",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CIDINHO",
+      "numero": "35822",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALAN ZÉ",
+      "numero": "35333",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR LEONARDO GALVÃO",
+      "numero": "30177",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TECIO TELES",
+      "numero": "30000",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃO NADO",
+      "numero": "30210",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RONALDO ALENCAR",
+      "numero": "30220",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FELIPE CATENDE",
+      "numero": "30303",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DÉBORA MOURA",
+      "numero": "30888",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JANAILSON SILVA",
+      "numero": "30100",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JAIRO PERSONAL",
+      "numero": "30112",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL FEITOSA",
+      "numero": "22022",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NENECA DO PISTON",
+      "numero": "22612",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADRIANO BOMBEIRO",
+      "numero": "22193",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDREZZA ASSIS",
+      "numero": "22522",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SHEILANE SOARES",
+      "numero": "15401",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PEDRO IVO FILHO",
+      "numero": "15789",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FAGNER RUSSO",
+      "numero": "15555",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. JOÃO FERRAZ",
+      "numero": "20055",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIELA DOS PODEUS",
+      "numero": "20622",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR CLEBER",
+      "numero": "20193",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TACILA DE LIMA",
+      "numero": "20277",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MORGANA DO MEL",
+      "numero": "20121",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JUNIOR DO HABITAT PE",
+      "numero": "20333",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KAIO MANIÇOBA",
+      "numero": "11444",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "LUISINHO DO SINDICATO",
+      "numero": "44222",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "FLAVIO IAPOI",
+      "numero": "11002",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DR. HEVERTON LOPES",
+      "numero": "44123",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ADALTO SANTOS",
+      "numero": "11000",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ANA KEITE INCLUSÃO",
+      "numero": "44365",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CINTIA COSTA",
+      "numero": "11022",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "HENRIQUE FILHO",
+      "numero": "11777",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ROBERTA ARRAES",
+      "numero": "11511",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOSEMI SIMÕES",
+      "numero": "40170",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CANDIDA BOMFIM",
+      "numero": "40777",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MISSIONÁRIA LALA",
+      "numero": "40877",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NETO DA SAÚDE",
+      "numero": "40155",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSORA GILMARA",
+      "numero": "40315",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCELINO",
+      "numero": "40333",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF ADELSON FRANÇA DO MORRO",
+      "numero": "40161",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNO MARQUES",
+      "numero": "40111",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TÚLIO ARRUDA",
+      "numero": "40015",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDNALDO MOURA",
+      "numero": "40190",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RICARDO GADÊLHA",
+      "numero": "18123",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "EUNICE MELO",
+      "numero": "50323",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "DAVID SANTOS",
+      "numero": "18555",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "AMANDA KARAXUÉ",
+      "numero": "18180",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "SILVANIA CARRILHO",
+      "numero": "55321",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃ JUNINHA",
+      "numero": "55025",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO MORAES",
+      "numero": "55100",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JANJÃO",
+      "numero": "55222",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉA MEDEIROS",
+      "numero": "55655",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DÉBORA ALMEIDA",
+      "numero": "55888",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AMANDA RAMOS",
+      "numero": "55255",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CHEF NEGRALINDA",
+      "numero": "55700",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARLEIDE BONAPARTE",
+      "numero": "55669",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOCORRINHO DA APAMI",
+      "numero": "70111",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALCIDES TEIXEIRA NETO",
+      "numero": "70000",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "OLAVO BANDEIRA",
+      "numero": "10888",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDNALDO MOTORISTA",
+      "numero": "10310",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PACHECO",
+      "numero": "10610",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JUNIOR MATUTO",
+      "numero": "10123",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLOS ANDRÉ",
+      "numero": "77777",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "TAXISTA SAMURAY",
+      "numero": "12222",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRANCA DA HORA",
+      "numero": "33355",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FABIO PANTERA",
+      "numero": "33300",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSAFÁ ALABASTRO",
+      "numero": "33553",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO DE DEUS",
+      "numero": "20615",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR RUBENS ALENCAR",
+      "numero": "20192",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDREZA OLIVEIRA",
+      "numero": "65313",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "MARINHO",
+      "numero": "43000",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "REGINALDO ALMEIDA",
+      "numero": "40690",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IVAN GUEDES",
+      "numero": "30222",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADRIANA VIGILANTE",
+      "numero": "30075",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CABO DANI ALVES",
+      "numero": "30360",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VIVY DE PAULA",
+      "numero": "30130",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MISSIONÁRIA PATRÍCIA MACENA",
+      "numero": "30444",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. ARI DUTRA",
+      "numero": "30789",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FERNANDO ANGELIM",
+      "numero": "30133",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. EUGÊNIO SÁ",
+      "numero": "30003",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR ESDRAS NOBERTO",
+      "numero": "30080",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SYER RODRIGUES",
+      "numero": "30777",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DINALVA FERREIRA",
+      "numero": "30030",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADA TEREZA NOGUEIRA",
+      "numero": "30190",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃO MOISES POPEYE",
+      "numero": "22889",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "UILMA LOPES",
+      "numero": "22656",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HELIENE PARAISO",
+      "numero": "22321",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. WILSON LIMA",
+      "numero": "15620",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃ JAILZA",
+      "numero": "15140",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DIGERSON SOARES BEZERRA",
+      "numero": "15515",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VICTOR ANDRÉ GOMES",
+      "numero": "15615",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JEFERSON TIMÓTEO",
+      "numero": "20000",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FELLYPE MARTINS",
+      "numero": "20999",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BETO ACCIOLY",
+      "numero": "20777",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF. WELLINGTON SANTOS",
+      "numero": "20321",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CIRO MARQUES",
+      "numero": "14333",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO BIGODE",
+      "numero": "14190",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDSON VIEIRA",
+      "numero": "20620",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUILHERME QUEIROZ",
+      "numero": "20033",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AMIGA INDIA",
+      "numero": "20444",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FABRIZIO FERRAZ",
+      "numero": "20111",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RODRIGO PATRIOTA",
+      "numero": "11133",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "LÉO DO AR",
+      "numero": "11100",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CLAUDIANO FILHO",
+      "numero": "11555",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ANDERSON CORREIA",
+      "numero": "11232",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CRISTINA COSTA",
+      "numero": "13688",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "EUGÊNIA LIMA",
+      "numero": "13013",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "DORIEL",
+      "numero": "13123",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "LYLA RODRIGUES",
+      "numero": "40700",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNO LINS",
+      "numero": "40600",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CIBELLE ALBUQUERQUE",
+      "numero": "40013",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROMERO ALBUQUERQUE",
+      "numero": "40000",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GERALDO TAVARES",
+      "numero": "40345",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANY MYLER",
+      "numero": "40440",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DIOGO MORAES",
+      "numero": "40100",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FELIPE DANTAS",
+      "numero": "40222",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIEL VALENÇA",
+      "numero": "50100",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MARI LESSA",
+      "numero": "18000",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MATHEUS DRAMA",
+      "numero": "50555",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "CORONEL LINALDO",
+      "numero": "55190",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAIMUNDO PIMENTEL",
+      "numero": "55111",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃOZINHO TENÓRIO",
+      "numero": "55555",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉ DE ANE EBRAHIM",
+      "numero": "55696",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WILLIAM BRÍGIDO",
+      "numero": "55123",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR. JULIO LOSSIO",
+      "numero": "55001",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TANIA DO PASSO A PASSO",
+      "numero": "70443",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NEIDE FREITAS",
+      "numero": "70011",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SEBASTIÃO OLIVEIRA",
+      "numero": "70123",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VALDI RIBEIRO",
+      "numero": "70044",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PH NORONHA",
+      "numero": "70077",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALMIR GOUVEIA",
+      "numero": "10100",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LELA DO MONTE",
+      "numero": "10103",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSORA ALCIENE",
+      "numero": "25555",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "JOSE AUGUSTO",
+      "numero": "33000",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR MATEUS JONATAS",
+      "numero": "33722",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDERSON SILVESTRE",
+      "numero": "33555",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MOURACIA",
+      "numero": "33243",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANA DE PITUCA",
+      "numero": "33043",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JÓ LIGEIRO",
+      "numero": "35124",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VICTOR PRETO MONTE",
+      "numero": "70670",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PEDRO SOATMAN",
+      "numero": "30800",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCONI FERRAZ",
+      "numero": "30999",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULO FERRAZ",
+      "numero": "30234",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCO SERÁ",
+      "numero": "30456",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DONA VAL DOS DIREITOS HUMANOS",
+      "numero": "22755",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IGOR LOUREIRO",
+      "numero": "22011",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NINO DE ENOQUE",
+      "numero": "22700",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULO SALES",
+      "numero": "22012",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "THIAGO PAES",
+      "numero": "22333",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLOS ANDRÉ TRABALHADOR",
+      "numero": "22500",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "XANDE BARÃO",
+      "numero": "22033",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO PEREIRA",
+      "numero": "22433",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RICARDO MENDES COMISSÁRIO",
+      "numero": "22101",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO BOCA",
+      "numero": "22111",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALBERI DOS CAMINHONEIROS",
+      "numero": "15111",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LENO DE CABROBÓ",
+      "numero": "15013",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HOSANA JANE",
+      "numero": "15002",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JORDANIA SIQUEIRA",
+      "numero": "20400",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SUELAYNE GOMES",
+      "numero": "20800",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO MANGA",
+      "numero": "20126",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUSTAVO GOUVEIA",
+      "numero": "20200",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PB JOSÉ CARLOS (CACAU)",
+      "numero": "20600",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCIANO DUQUE",
+      "numero": "20120",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GABRIEL ASAFE",
+      "numero": "14000",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALBERES PAES",
+      "numero": "14777",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO COELHO",
+      "numero": "44000",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "MERCIO VIEIRA",
+      "numero": "44444",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JUIZ FERNANDO SANTOS",
+      "numero": "43123",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "JOÃO PAULO DO PT",
+      "numero": "13113",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "PERITO MARIO RENÉ",
+      "numero": "43190",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "VINI CASTELLO",
+      "numero": "65013",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "MAKOY",
+      "numero": "65111",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "CIDA PEDROSA",
+      "numero": "65113",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "JOSUEL SANTOS",
+      "numero": "13456",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "GILMAR JÚNIOR",
+      "numero": "43333",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "ADERALDO PINTO",
+      "numero": "40888",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KELLY DAS MULHERES SOCIALISTAS",
+      "numero": "16180",
+      "partido": "PSTU",
+      "partido_nome": "PARTIDO SOCIALISTA  DOS TRABALHADORES UNIFICADO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AGRINALDO JÚNIOR",
+      "numero": "50275",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MAGDA PIMENTEL",
+      "numero": "18888",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "JOAQUIM COELHO",
+      "numero": "50888",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "RUI",
+      "numero": "18050",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ANDERSON CÂMARA",
+      "numero": "18040",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ODETE CARNEIRO MOTORISTA",
+      "numero": "55720",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANASTÁCIA DE SÁ",
+      "numero": "55600",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VIVIANE FACUNDES",
+      "numero": "55678",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCONI SANTANA",
+      "numero": "55155",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MANASSÉS",
+      "numero": "70131",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LETICIA GALINDO",
+      "numero": "70770",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉ CARVALHO",
+      "numero": "70170",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LAURA CÓRDULA",
+      "numero": "70777",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULA CRISTIANE",
+      "numero": "70231",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WENDEL FELIX",
+      "numero": "10555",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BUBA DO VERA CRUZ",
+      "numero": "10633",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉ ESMERALDO",
+      "numero": "10456",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAYANE DO BRONZE",
+      "numero": "10565",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUILHERME PRESSÃO",
+      "numero": "12012",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LEONARDO MOURA",
+      "numero": "30567",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MAGNO KENNEDY",
+      "numero": "33999",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADRIANA",
+      "numero": "33117",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDILSON BOLINHA",
+      "numero": "35615",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR FABIANNI FELIX",
+      "numero": "10373",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TIÃO DO GESSO",
+      "numero": "10777",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSENILSON PRESTANISTA",
+      "numero": "10141",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL TIBÉRIO",
+      "numero": "30321",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELIANE SALUSTIANO",
+      "numero": "30111",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RODOLFO SILVA",
+      "numero": "30123",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DOMINGOS GAMA",
+      "numero": "30690",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LARA CAVALCANTI",
+      "numero": "22123",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR CAPELAO JORGE",
+      "numero": "22345",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CABO AÊNIA",
+      "numero": "22190",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FERNANDO LINS",
+      "numero": "22026",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ÁLVARO PORTO",
+      "numero": "15000",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF MARCÃO MARCOS NASCIMENTO",
+      "numero": "15700",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WALTER REIS",
+      "numero": "15310",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WILSON DA GUARDA",
+      "numero": "20153",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOEL CONSTÂNCIA",
+      "numero": "14123",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FILLIP DA FARMACIA",
+      "numero": "20500",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ETEVALDO VENTURA",
+      "numero": "20700",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ALEXANDRE NEGÃO",
+      "numero": "20150",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PITOMBA",
+      "numero": "44777",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "GERSINHO FILHO",
+      "numero": "44555",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOACI FREITAS",
+      "numero": "11115",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ANY FERNANDES",
+      "numero": "11123",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JANAILSON VALIMIL",
+      "numero": "44333",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "NEGÃO ACESSÓRIOS",
+      "numero": "44344",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DR. TARCISIO",
+      "numero": "11177",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "LILY DA SAÚDE",
+      "numero": "44844",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "IRMÃ ROSE",
+      "numero": "11432",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "IRMÃ ROSELMA",
+      "numero": "11121",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "THIERRY CUPERTINO",
+      "numero": "11411",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CÉU ALBUQUERQUE",
+      "numero": "43777",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "RICARDO ROCHA",
+      "numero": "40001",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NELSINHO EVANGELISTA",
+      "numero": "40120",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HELLOYSA FERREIRA",
+      "numero": "40789",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JÁ MORREU",
+      "numero": "40999",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROMERINHO JATOBÁ",
+      "numero": "40555",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROGÉRIA DA ONG",
+      "numero": "18111",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "PERPÉTUA RODRIGUES",
+      "numero": "50500",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "DRA. RUANA BEZERRA",
+      "numero": "50123",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "GEORGE SILVA",
+      "numero": "18108",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ZÉ DE IRMÃ TECA",
+      "numero": "55333",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FÁBIO ARAGÃO",
+      "numero": "55777",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSORA ANA LÚCIA",
+      "numero": "55500",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULO FERNANDO",
+      "numero": "80680",
+      "partido": "UP",
+      "partido_nome": "UNIDADE POPULAR",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "HELENA CIPRIANO",
+      "numero": "70005",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NEGONA ALESSANDRA",
+      "numero": "70144",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAFAEL LOURENCO",
+      "numero": "70072",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CAROL GONÇALVES",
+      "numero": "70555",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "THIAGO IBSON",
+      "numero": "10999",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR GEORGE",
+      "numero": "10010",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ABRAÃO JOSÉ O HOMEM DE FÉ",
+      "numero": "10150",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TIA IDA",
+      "numero": "10210",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BOTAFOGO",
+      "numero": "10140",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSINALDO GOMES",
+      "numero": "25000",
+      "partido": "PRD",
+      "partido_nome": "PARTIDO RENOVACAO DEMOCRATICA",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "GEORGE ARRAES",
+      "numero": "12345",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SULINO",
+      "numero": "33888",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ÍNDIO DOS SANTOS",
+      "numero": "33040",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSORA MIRTIS",
+      "numero": "33302",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLOS PREGUIÇA",
+      "numero": "33333",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BEZINHA BELÉM",
+      "numero": "44011",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "LUIZ SOARES",
+      "numero": "65123",
+      "partido": "PCDOB",
+      "partido_nome": "PARTIDO COMUNISTA DO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "MÁRCIA DE BIEL",
+      "numero": "35123",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DULCI AMORIM",
+      "numero": "55544",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "QUERCIA VASCONCELOS",
+      "numero": "70133",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MÔNICA RAMOS",
+      "numero": "10910",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO INOJOSA",
+      "numero": "30300",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DRA. PRISCILA OLIVEIRA",
+      "numero": "30700",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDNA RODRIGUES",
+      "numero": "30912",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR CARLÃO",
+      "numero": "30322",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCELO FILHO",
+      "numero": "30330",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLA RÔMULO",
+      "numero": "30090",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAFFIE DELLON",
+      "numero": "22555",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LÍVIA ÁLVARO",
+      "numero": "22100",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ZENITE ROSA",
+      "numero": "22255",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO RIBAMAR",
+      "numero": "22318",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO EDSON JÚNIOR",
+      "numero": "22422",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSENILDO",
+      "numero": "22000",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR ANDRÉ OLIVEIRA",
+      "numero": "15456",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CENIRA DA SAÚDE",
+      "numero": "15090",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARINA SOUZA",
+      "numero": "15040",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FLÁVIO GADELHA FILHO",
+      "numero": "15015",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CASSIANO DO MEIO AMBIENTE",
+      "numero": "20100",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TÃO SEBASTIÃO NETO",
+      "numero": "20007",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROSE NEIDSON",
+      "numero": "20110",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIO RICARDO",
+      "numero": "20610",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GABRIEL MACIEL",
+      "numero": "11677",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "PASTOR CLEITON COLLINS",
+      "numero": "11611",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "TEN. CORONEL LÚCIA HELENA",
+      "numero": "44244",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ROSI SOARES",
+      "numero": "44144",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOÃO DE NADEGI",
+      "numero": "43643",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "DANI PORTELA",
+      "numero": "13000",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "JOÃO PAULO COSTA",
+      "numero": "13444",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "JAÍZA METÓDIO",
+      "numero": "40156",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RODRIGO FARIAS",
+      "numero": "40123",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TIO IGGOR",
+      "numero": "40024",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CAIO MARX",
+      "numero": "16123",
+      "partido": "PSTU",
+      "partido_nome": "PARTIDO SOCIALISTA  DOS TRABALHADORES UNIFICADO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BHIO DE DOIS LEÕES",
+      "numero": "18333",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "PROFESSORA THAYNAH LEAL",
+      "numero": "18913",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "EDUARDO PAYSAN",
+      "numero": "50001",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MARACA",
+      "numero": "50122",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "YASMIM ALVES",
+      "numero": "50999",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "JÔ CAVALCANTI",
+      "numero": "50000",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ANDERSON LUIZ",
+      "numero": "55456",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SANDRO DA VIDRACARIA",
+      "numero": "70307",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LEIDE ACS",
+      "numero": "70071",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SIMONE DE PAULA",
+      "numero": "70177",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROF LINDACY ASSIS",
+      "numero": "70013",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JULIANA AMORIM",
+      "numero": "70677",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "XEQUE",
+      "numero": "70333",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO ESTIVERSON",
+      "numero": "10200",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR CABRAL SILVA",
+      "numero": "10333",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WILLIAM SOARES",
+      "numero": "77722",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "ADRIANA ALVES",
+      "numero": "77123",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "NAIR SOUZA",
+      "numero": "12111",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCIO CARDOSO",
+      "numero": "33200",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DRIANE JULIA",
+      "numero": "33009",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULA DA CAUSA ANIMAL",
+      "numero": "33007",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CACAU",
+      "numero": "30022",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MANOEL MEDEIROS",
+      "numero": "30678",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TÂMARA DANTAS",
+      "numero": "30333",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARMEM",
+      "numero": "22050",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROBSON TA LOTADO",
+      "numero": "22091",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BASGAR DO POVO",
+      "numero": "22456",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANDRÉ FERREIRA",
+      "numero": "22222",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROBSON OURO PRETO",
+      "numero": "22777",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CHICA DO CORROPE",
+      "numero": "22231",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRISTIANE CARVALHO",
+      "numero": "15304",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JONA DE SEU DUARDO",
+      "numero": "15005",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL RENATO ARAGÃO",
+      "numero": "15115",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADA NATASHA DOLCI",
+      "numero": "15190",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROSEMARY ANDRADE",
+      "numero": "20202",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NENA CABRAL",
+      "numero": "20022",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MANU FRUTUOSO",
+      "numero": "20088",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IVANILDA DO BARÃO",
+      "numero": "20303",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IONE NASCIMENTO",
+      "numero": "14214",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUCAS TATAL",
+      "numero": "14999",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAYANE CRUZ",
+      "numero": "14222",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DIOGO HOFFMANN",
+      "numero": "44010",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DANNILO GODOY",
+      "numero": "11234",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "CANTORA LUCIANA GOMES",
+      "numero": "44454",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "SUHELLEN OLIVEIRA",
+      "numero": "11333",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "TATIANA ROMA",
+      "numero": "44044",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "PROFESSOR GILMAR",
+      "numero": "13100",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "PROFESSORA IVETE CAETANO",
+      "numero": "13613",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "PROFESSORA ZÉLIA SANTANA",
+      "numero": "43180",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "PROF. EDIVANIA ARCANJO",
+      "numero": "40340",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIA ARRAES",
+      "numero": "40140",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DRA VERA LOPES",
+      "numero": "40192",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARCOS FALCÃO",
+      "numero": "18181",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "ALDA ARANTES",
+      "numero": "50300",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "TAYSA LUANA",
+      "numero": "18018",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "CARLOS FREITAS DA SAÚDE",
+      "numero": "50136",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "DELEGADO ROMERO LEAL",
+      "numero": "55999",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARLOS BRAGA",
+      "numero": "55133",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JARBAS FILHO",
+      "numero": "55232",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AGLAILSON VICTOR",
+      "numero": "55444",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GENILDA MARIA",
+      "numero": "29029",
+      "partido": "PCO",
+      "partido_nome": "PARTIDO DA CAUSA OPERÁRIA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO GONÇALVES",
+      "numero": "70888",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO JUNIOR",
+      "numero": "70707",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ZEZINHO LUIZ",
+      "numero": "70001",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ITAMAR SILVA",
+      "numero": "70192",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NIZE D´MELO (PROF. VAL)",
+      "numero": "70678",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VICTOR FLORES",
+      "numero": "70007",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNA PAES BARRETO",
+      "numero": "10101",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LÉO QUEBRADÕES",
+      "numero": "10232",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SANDRA DA SAÚDE",
+      "numero": "33737",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VERONICA",
+      "numero": "33311",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAYSE ENFERMEIRA",
+      "numero": "33188",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PAULO DE HOLANDA",
+      "numero": "33444",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DIDI",
+      "numero": "33077",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "TIO SAM",
+      "numero": "33113",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANTONIO CARLOS CARVALHO",
+      "numero": "33022",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ABRAAO PEREIRA",
+      "numero": "33644",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SEVERINO RAMOS",
+      "numero": "33450",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SACHA BOA HORA",
+      "numero": "33222",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR LUPÉRCIO",
+      "numero": "55055",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOEL GALDINO",
+      "numero": "35100",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JACY MODAS",
+      "numero": "70231",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RENATO ANTUNES",
+      "numero": "30630",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JACIRA FIALHO",
+      "numero": "30088",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR ÍCARO TABOSA",
+      "numero": "30233",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SAMUEL TENÓRIO",
+      "numero": "30011",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADILSON VERON",
+      "numero": "30033",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CANTORA ELIANE SOARES",
+      "numero": "30140",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MISS. ANDREZA SALVADOR",
+      "numero": "22477",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RONALDO JUNIOR",
+      "numero": "22112",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ABIMAEL SANTOS",
+      "numero": "22622",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "VALQUÍRIA DO CONSELHO",
+      "numero": "22444",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GERSON JÚNIOR",
+      "numero": "22789",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SANDRA PERNAMBUCO",
+      "numero": "22423",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARMENTO",
+      "numero": "22122",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDSON GUAIAMUM",
+      "numero": "22007",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDER DUARTE",
+      "numero": "22220",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "REI DO DANON",
+      "numero": "15777",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IVAN ÍNDIO",
+      "numero": "15100",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DR ANDERSON AQUINO",
+      "numero": "15333",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ZÉ QUEIROZ",
+      "numero": "15123",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANE GALVÃO",
+      "numero": "15678",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GILSON MACHADO FILHO",
+      "numero": "20222",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANINHA DE DR MARCOS",
+      "numero": "20330",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CORONEL HELIO",
+      "numero": "20190",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MÁRCIO BOTELHO",
+      "numero": "20020",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUSTAVO SANTANA",
+      "numero": "14444",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "REBECA LUCENA",
+      "numero": "20300",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "REGINA DA SAÚDE",
+      "numero": "20123",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SARGENTO MARAIZA",
+      "numero": "11180",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "RONALDO LOPES",
+      "numero": "11011",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "PASTOR JÚNIOR TÉRCIO",
+      "numero": "11222",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "FRANCE HACKER",
+      "numero": "11789",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOEL DA HARPA",
+      "numero": "11300",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "JOAQUIM LIRA",
+      "numero": "43555",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "LARA SANTANA",
+      "numero": "43456",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "BRENO ARAÚJO",
+      "numero": "13333",
+      "partido": "PT",
+      "partido_nome": "PARTIDO DOS TRABALHADORES",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "CAYO ALBINO",
+      "numero": "40400",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIA DO CÉU",
+      "numero": "40500",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO AMÂNCIO",
+      "numero": "40012",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ÉLITON OLIVEIRA",
+      "numero": "50024",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "CLEIDE ANDRADE",
+      "numero": "50050",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "LADIEL LIMA",
+      "numero": "18118",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "CARLOS CALHEIROS",
+      "numero": "50789",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "NI DO BADOQUE",
+      "numero": "55789",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CESAR RAMOS",
+      "numero": "55455",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "U DE RAQUEL",
+      "numero": "55755",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JÉSSICA NATHALIA",
+      "numero": "80180",
+      "partido": "UP",
+      "partido_nome": "UNIDADE POPULAR",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "COMISSARIA PATRICIA FERREIRA",
+      "numero": "70181",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELBA SANTOS",
+      "numero": "70999",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRISTIANO NASCIMENTO",
+      "numero": "70700",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NATAN DO PROJETO",
+      "numero": "70232",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SERGIO DE NALVA",
+      "numero": "70055",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FLAVIA ARANTE",
+      "numero": "70234",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GISLÂNDIO ARAÚJO",
+      "numero": "70100",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SUAMY LIMA",
+      "numero": "10222",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃ IOLANDA",
+      "numero": "10444",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NETO GUERREIRO",
+      "numero": "10001",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR HILDEBERTO JÚNIOR",
+      "numero": "77577",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "ÍNDIO",
+      "numero": "12123",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "AZEVEDO MELO",
+      "numero": "33111",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JUNIOR BAÚ",
+      "numero": "33777",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR LUIZ EDUARDO",
+      "numero": "33133",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "LUIS AUGUSTO",
+      "numero": "33202",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO AUGUSTO",
+      "numero": "33123",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DANIEL DANTAS",
+      "numero": "33456",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SILVESTRE MONTEIRO",
+      "numero": "33033",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CAPELÃO WALDECK SANDRO",
+      "numero": "33100",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DORGIVAL SALES",
+      "numero": "29999",
+      "partido": "PCO",
+      "partido_nome": "PARTIDO DA CAUSA OPERÁRIA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRINEU DA KOMBI",
+      "numero": "35111",
+      "partido": "DEMOCRATA",
+      "partido_nome": "DEMOCRATA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SOUZA VIGILANTE",
+      "numero": "70130",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELIZEU SANTOS",
+      "numero": "10133",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR ALISSON MADEIRO",
+      "numero": "30377",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CÍCERO DA CHARQUE",
+      "numero": "30180",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADO VICTOR LEITE",
+      "numero": "30874",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SGT COSTA",
+      "numero": "30200",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FÁTIMA MACHADO",
+      "numero": "30122",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MERCINHO",
+      "numero": "30555",
+      "partido": "NOVO",
+      "partido_nome": "PARTIDO NOVO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CAL JUNIOR",
+      "numero": "22045",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "IRMÃO FABINHO",
+      "numero": "22145",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNNA BEZERRA",
+      "numero": "22055",
+      "partido": "PL",
+      "partido_nome": "PARTIDO LIBERAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EMERSON FREITAS",
+      "numero": "15001",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RAYANE GONDIM",
+      "numero": "15888",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CARINA PAZ",
+      "numero": "15500",
+      "partido": "MDB",
+      "partido_nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CABO TRAJANO",
+      "numero": "20004",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CRISTIANO DO IBURA",
+      "numero": "20900",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ELISMAR GONÇALVES",
+      "numero": "20789",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RINALDO TAVARES MOTOCICLISTA",
+      "numero": "20445",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DONA LOURDES",
+      "numero": "20456",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DELEGADO AMARELINHO",
+      "numero": "20010",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSI MELO",
+      "numero": "14100",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARIA HELENA",
+      "numero": "14614",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ADRIANO ANDREWS",
+      "numero": "14114",
+      "partido": "MISSÃO",
+      "partido_nome": "PARTIDO MISSÃO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DIEGA SINALIZA",
+      "numero": "20888",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WANDERSON FLORENCIO",
+      "numero": "20555",
+      "partido": "PODE",
+      "partido_nome": "PODEMOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOÃO LUIZ",
+      "numero": "44944",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "VILHÊNIA CRISTINA",
+      "numero": "11441",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "GLEIDE ÂNGELO",
+      "numero": "11111",
+      "partido": "PP",
+      "partido_nome": "PROGRESSISTAS",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "DELEGADO MENESES",
+      "numero": "44111",
+      "partido": "UNIÃO",
+      "partido_nome": "UNIÃO BRASIL",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO UNIÃO PROGRESSISTA"
+    },
+    {
+      "nome": "ANDREA ALENCAR E O COLETIVO",
+      "numero": "43444",
+      "partido": "PV",
+      "partido_nome": "PARTIDO VERDE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL"
+    },
+    {
+      "nome": "STE VILELA",
+      "numero": "40180",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BATISTA CABRAL",
+      "numero": "40640",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RICARDO CRUZ",
+      "numero": "40456",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ERIBERTO FILHO",
+      "numero": "40444",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "FRANCISMAR",
+      "numero": "40654",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "SILENO",
+      "numero": "40040",
+      "partido": "PSB",
+      "partido_nome": "PARTIDO SOCIALISTA BRASILEIRO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BRUNO MORAES",
+      "numero": "50005",
+      "partido": "PSOL",
+      "partido_nome": "PARTIDO SOCIALISMO E LIBERDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MARCELO FURTADO",
+      "numero": "18010",
+      "partido": "REDE",
+      "partido_nome": "REDE SUSTENTABILIDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO PSOL REDE"
+    },
+    {
+      "nome": "MAGDA ALVES",
+      "numero": "55011",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "KATIA TORRES",
+      "numero": "55551",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROMERO SALES FILHO",
+      "numero": "55000",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GALO CEGO",
+      "numero": "55044",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "DAVI MUNIZ",
+      "numero": "55122",
+      "partido": "PSD",
+      "partido_nome": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JACKSON BEZERRA",
+      "numero": "70717",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CLEITON MIGUEL",
+      "numero": "70222",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "GUGA DA SAÚDE",
+      "numero": "70500",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "RENATO DE DEMA",
+      "numero": "70455",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "WELLINGTON JUNIOR",
+      "numero": "70022",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NENO FERRADOR",
+      "numero": "70444",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CICERO ALMEIDA",
+      "numero": "70655",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PROFESSOR SATIRO",
+      "numero": "70789",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CABO CARDOSO",
+      "numero": "70190",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "EDUARDO BATISTA",
+      "numero": "70070",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PEDRO JORGE",
+      "numero": "70456",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "BETINHO GADÊLHA",
+      "numero": "70210",
+      "partido": "AVANTE",
+      "partido_nome": "AVANTE",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOBSON ALMEIDA",
+      "numero": "10000",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MARI SOUZA ENF",
+      "numero": "10355",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "OTACÍLIO LINS",
+      "numero": "10190",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ERIKA DA ONG",
+      "numero": "10020",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ABINOAM EMIDIO",
+      "numero": "10114",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "NYEDJA SOUZA",
+      "numero": "10700",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "JOSIMARA CAVALCANTI",
+      "numero": "10111",
+      "partido": "REPUBLICANOS",
+      "partido_nome": "REPUBLICANOS",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "QUEZIA GONZAGA",
+      "numero": "77166",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "GALEGO DE IBIRAJUBA",
+      "numero": "77877",
+      "partido": "SOLIDARIEDADE",
+      "partido_nome": "SOLIDARIEDADE",
+      "situacao": null,
+      "federacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA"
+    },
+    {
+      "nome": "WILMA SANTOS",
+      "numero": "12333",
+      "partido": "PDT",
+      "partido_nome": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "PASTOR RODRIGO OTAVIO",
+      "numero": "33622",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ANA CRISTINA BARROS",
+      "numero": "33569",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "MOABE",
+      "numero": "33460",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "ROBERTO LIRA",
+      "numero": "33190",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    },
+    {
+      "nome": "CÉLIO CARNEIRO",
+      "numero": "33434",
+      "partido": "MOBILIZA",
+      "partido_nome": "MOBILIZAÇÃO NACIONAL",
+      "situacao": null,
+      "federacao": "#NULO"
+    }
+  ]
+}
