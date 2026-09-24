@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel de apuração — Enquete 2026 PE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="topo">
+    <div>
+      <h1>Painel de apuração</h1>
+      <p>Resultados da enquete eleitoral 2026 em Pernambuco.</p>
+    </div>
+    <div class="acoes-topo">
+      <a class="btn-link" href="index.html">Voltar à urna</a>
+      <button type="button" class="tela-cheia" id="sair" hidden>Sair</button>
+    </div>
+  </header>
+
+  <main class="admin">
+    <form class="login" id="login" autocomplete="off">
+      <h2>Entrar</h2>
+      <label>Usuário <input id="usuario" required autocapitalize="none" spellcheck="false"></label>
+      <label>Senha <input id="senha" type="password" required></label>
+      <p class="erro" id="erro" role="alert"></p>
+      <button class="btn-primario" type="submit">Entrar</button>
+    </form>
+
+    <div id="painel" hidden>
+      <section class="bloco">
+        <h2>Comparecimento</h2>
+        <div class="kpis" id="kpis-comp"></div>
+        <p class="aviso-adm" id="repetidos" hidden></p>
+        <div class="chips" id="chips" aria-label="Números de eleitor: verde já votou"></div>
+      </section>
+
+      <div class="abas abas-cargos" id="abas" role="group" aria-label="Cargo"></div>
+      <p class="nota" id="nota-cargo"></p>
+      <div class="kpis" id="kpis"></div>
+
+      <section class="bloco">
+        <h2>Candidatos</h2>
+        <div class="filtros">
+          <input type="search" id="busca" placeholder="Buscar por nome ou número" aria-label="Buscar candidato">
+          <select id="partido" aria-label="Filtrar por partido"></select>
+        </div>
+        <label class="marca"><input type="checkbox" id="zerados"> Mostrar candidatos sem votos</label>
+        <div class="rolagem">
+          <table class="tabela" id="tab-cand">
+            <thead><tr><th>#</th><th>Número</th><th>Candidato</th><th>Partido</th><th class="d">Votos</th><th class="d">% válidos</th><th>Proporção</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="bloco">
+        <h2>Votos por partido</h2>
+        <div class="rolagem">
+          <table class="tabela" id="tab-part">
+            <thead><tr><th>Partido</th><th class="d">Votos</th><th class="d">% válidos</th><th>Proporção</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="bloco">
+        <h2>Dados e várias urnas</h2>
+        <p class="nota">Cada aparelho guarda só os votos dados nele. Para somar tudo, exporte o arquivo em cada urna e importe aqui.
+          Importar de novo o arquivo da mesma urna substitui os dados dela, sem contar duas vezes.</p>
+        <p class="nota" id="urnas"></p>
+        <div class="botoes">
+          <button type="button" class="btn-primario" id="exp-json">Exportar deste aparelho (JSON)</button>
+          <label class="btn-sec">Importar de outra urna <input type="file" id="importar" accept="application/json,.json" hidden></label>
+          <button type="button" class="btn-sec" id="exp-csv">Baixar apuração (CSV)</button>
+        </div>
+        <div class="botoes perigo">
+          <button type="button" class="btn-sec" id="zerar-imp">Remover urnas importadas</button>
+          <button type="button" class="btn-sec" id="zerar-local">Zerar votos deste aparelho</button>
+        </div>
+        <p class="nota" id="msg" role="status"></p>
+      </section>
+    </div>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="config.js"></script>
+  <script src="store.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>

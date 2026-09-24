@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Enquete Eleitoral 2026 — Pernambuco</title>
+  <meta name="description" content="Urna de enquete não-oficial com todos os candidatos a deputado federal e estadual de Pernambuco em 2026.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topo">
+    <div>
+      <h1>Enquete eleitoral 2026 — Pernambuco</h1>
+      <p>Enquete não-oficial, com voto secreto. Um voto por eleitor.</p>
+    </div>
+    <button type="button" class="tela-cheia" id="btn-cheia">Tela cheia</button>
+  </header>
+
+  <main class="entrada" id="entrada">
+    <form class="login" id="login" autocomplete="off">
+      <h2>Digite o número que foi distribuído para você</h2>
+      <input id="codigo" inputmode="numeric" maxlength="3" placeholder="001" aria-label="Número do eleitor" required>
+      <p class="erro" id="erro" role="alert"></p>
+      <button class="btn-entrar" type="submit">Entrar</button>
+    </form>
+  </main>
+
+  <main class="app" id="votacao" hidden>
+    <section class="urna-area" aria-label="Urna eletrônica">
+      <div class="urna" id="urna">
+        <div class="tela" id="tela" aria-live="polite"></div>
+        <div class="teclado" role="group" aria-label="Teclado numérico">
+          <button class="tecla" data-d="1">1</button>
+          <button class="tecla" data-d="2">2</button>
+          <button class="tecla" data-d="3">3</button>
+          <button class="tecla" data-d="4">4</button>
+          <button class="tecla" data-d="5">5</button>
+          <button class="tecla" data-d="6">6</button>
+          <button class="tecla" data-d="7">7</button>
+          <button class="tecla" data-d="8">8</button>
+          <button class="tecla" data-d="9">9</button>
+          <span></span>
+          <button class="tecla" data-d="0">0</button>
+          <span></span>
+          <button class="tecla branco" id="btn-branco">Branco</button>
+          <button class="tecla corrige" id="btn-corrige">Corrige</button>
+          <button class="tecla confirma" id="btn-confirma">Confirma</button>
+        </div>
+      </div>
+      <button type="button" class="sair" id="btn-sair">Sair sem votar</button>
+    </section>
+
+    <section class="lista-area" aria-label="Lista de candidatos">
+      <h2 class="lista-titulo" id="lista-titulo"></h2>
+      <div class="filtros">
+        <input type="search" id="busca" placeholder="Buscar por nome ou número" aria-label="Buscar candidato">
+        <select id="partido" aria-label="Filtrar por partido"></select>
+      </div>
+      <p class="resultado" id="resultado"></p>
+      <ul class="lista" id="lista"></ul>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    Enquete não-oficial, sem valor legal: não é o sistema eleitoral do TSE. O voto é secreto e só as contagens são guardadas.
+    <a href="admin.html">Painel de apuração</a>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="store.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
